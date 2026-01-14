@@ -1,7 +1,7 @@
 Workshop Day 1
 
 ----index.html----
-[index.html](https://github.com/user-attachments/files/24605589/index.html)
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
